@@ -10,6 +10,6 @@ begin
 
 
 end while (n <= 50)
-n = 39;
+n = 399;
 z = 40;
 puts email [0..49]
