@@ -7,9 +7,6 @@ begin
 	new_email = new_email.to_s
 	email << new_email.to_s
 	n += 1
-
-
 end while (n <= 50)
-n = 399;
-z = 40;
+
 puts email [0..49]
